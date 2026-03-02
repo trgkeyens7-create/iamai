@@ -1,9 +1,0 @@
-{
-    "api_url": "https://api.poe.com/v1",
-    "api_key": "",
-    "model": "claude-sonnet-4",
-    "prompt_template": "请根据以下标题写一篇文章：\n\n标题：{title}\n\n要求：\n1. 内容详实，逻辑清晰\n2. 字数不少于800字\n3. 语言流畅，易于阅读",
-    "max_threads": 3,
-    "output_dir": "output",
-    "total_count": 0
-}
